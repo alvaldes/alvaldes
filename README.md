@@ -13,8 +13,8 @@
     <img width="32px" alt="Linkedin" title="Linkedin" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
   </a>
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
-### Hi there 👋
 
 <!--
 Here are some ideas to get you started:
