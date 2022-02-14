@@ -1,9 +1,7 @@
-<h2 align="center">
+<h1 align="center">
   Welcome to Angel 's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-
----
+</h1>
 
 <!-- Social icons section -->
 <p align="center">
@@ -29,9 +27,9 @@ design. I like to think that the glass is half emptied to see the potential it o
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
-##🤓 More About Me:
+### 🤓 More About Me:
 
 - 🔭 &nbsp; I’m currently working on [**ADwebmanager**](https://github.com/Universidad-Tecnologica-CUJAE/AD-webmanager)
 - 🌱 &nbsp; I’m currently learning Python and Typescript
