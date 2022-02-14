@@ -27,7 +27,8 @@ design. I like to think that the glass is half emptied to see the potential it o
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/alvaldes/alvaldes/main/code.gif" width="300px"/>
+
 
 ### 🤓 More About Me:
 
