@@ -34,7 +34,7 @@ design. I like to think that the glass is half emptied to see the potential it o
 - 🔭 &nbsp; I’m currently working on [**ADwebmanager**](https://github.com/Universidad-Tecnologica-CUJAE/AD-webmanager)
 - 🌱 &nbsp; I’m currently learning Python and Typescript
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/alvaldes?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/telecommuting/pana) and Figma I made 👉
 - 🤝 &nbsp; I'm looking to collaborate as a goal for 2022 
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - 💬 &nbsp; Ask me about anything, I am happy to help
