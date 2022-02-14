@@ -36,7 +36,7 @@ design. I like to think that the glass is half emptied to see the potential it o
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/alvaldes?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/telecommuting/pana) and Figma I made 👉
 - 🤝 &nbsp; I'm looking to collaborate as a goal for 2022 
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1XOHtTeCA07Q1TcbJih93Hq5SbN4jP-he/view?usp=sharing)
 - 💬 &nbsp; Ask me about anything, I am happy to help
 - 💼 &nbsp; Any work? do reach 📬, [Email](mailto:angelluis2605@gmail.com) / [Linkedin](https://www.linkedin.com/in/angel-l-vald%C3%A9s-s%C3%A1nchez-78774b227/)
 - ⚡ &nbsp;  I like coffee☕, music🎶, design🎨 and more coffee☕☕☕.  
