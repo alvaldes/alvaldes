@@ -9,7 +9,7 @@
     <img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/angel-l-vald%C3%A9s-s%C3%A1nchez-78774b227/">
+  <a href="https://www.linkedin.com/in/angel-l-valdes-sanchez/">
     <img width="32px" alt="Linkedin" title="Linkedin" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
   </a>
 </p>
