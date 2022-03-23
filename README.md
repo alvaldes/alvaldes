@@ -5,8 +5,8 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://alvaldes.vercel.app" style="margin-right:15px">
-    <img width="32px" alt="Personal Page" title="Personal Page" src="logo.png"/>
+  <a href="https://alvaldes.vercel.app">
+    <img width="52px" alt="Personal Page" title="Personal Page" src="logo.png"/>
   </a>
   <a href="https://twitter.com/alvaldes97">
     <img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
