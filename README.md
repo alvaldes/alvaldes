@@ -30,8 +30,9 @@ design. I like to think that the glass is half emptied to see the potential it o
 <br/>
 <br/>
 ### 🤓 More About Me:
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/alvaldes/alvaldes/main/code.gif" width="360px" style="border-radius: 20px"/>
+<kbd>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/alvaldes/alvaldes/main/code.gif" width="360px" style="border-radius: 10px"/>
+</kbd>
 
 
 - 🔭 &nbsp; I’m currently working on [**ADwebmanager**](https://github.com/Universidad-Tecnologica-CUJAE/AD-webmanager)
