@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angel L Valdés
 ======================================================================================================================================
 
-Angel is a 26 year old web developer with 3 years of experience. He is a teamwork enthusiast and considers himself a great self-taught person. Visit my portfolio where I post my latest work and my resume for job details.
+Angel is a 26 year old web developer with 3 years of experience. He is a teamwork enthusiast and considers himself a great self-taught person. Visit Angel´s portfolio to view her latest work and her resume for job details.
 
 * 🌍  I'm based in La Habana, Cuba
 * 🖥️  See my portfolio at [alvaldes.vercel.app](http://alvaldes.vercel.app)
