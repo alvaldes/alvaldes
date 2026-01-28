@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angel L. Valdés
 ======================================================================================================================================
 ## Web Developer, Code Geek and Digital Craftsman
-I am a 26-year-old professional with three years of industry experience. My enthusiasm for teamwork is matched only by my dedication to self-improvement and learning. I invite you to explore my [portfolio](http://alvaldes.vercel.app) where you can find a comprehensive showcase of my latest projects and career details.
+I am a 29-year-old professional with 10 years of industry experience. My enthusiasm for teamwork is matched only by my dedication to self-improvement and learning. I invite you to explore my [portfolio](http://alvaldes.vercel.app) where you can find a comprehensive showcase of my latest projects and career details.
 
-* 🌍  I'm based in La Habana, Cuba
+* 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [alvaldes.vercel.app](http://alvaldes.vercel.app)
-* ✉️  You can contact me at [angelluis2605@gmail.com](mailto:angelluis2605@gmail.com)
+* ✉️  You can contact me at [alvaldes.dev@gmail.com](mailto:alvaldes.dev@gmail.com)
 * 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1XOHtTeCA07Q1TcbJih93Hq5SbN4jP-he/view?usp=sharing)
-* 🚀  I'm currently working on [aterm (an interactive web terminal)](http://github.com/alvaldes/aterm)
-* 🧠  I'm learning Flutter
+* 🚀  I'm currently working on [csv2trello (an interactive TUI and CLI tool that converts CSV into Trello boards.)](http://github.com/alvaldes/csv2trello)
+* 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on open-source projects
 * ⚡  I love coffee ☕ and photography 📸
 
