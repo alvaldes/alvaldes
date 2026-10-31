@@ -15,7 +15,11 @@ Software engineer based in Mexico. I'm a frontend-focused full-stack developer a
 
 ## Latest posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [I don&#39;t code alone: I lead a team of agents](https://www.alvaldes.dev/en/blog/my-ai-dev-stack/): I built Netty in four days as the project manager of a team of AI agents. This is my stack: terminal, agents, memory, browser, and the pieces that connect them. 
+- [Netty: is the internet really there?](https://www.alvaldes.dev/en/blog/introducing-netty/): Why I built an open-source macOS menu bar app that tells you at a glance whether you&#39;re really online, how good the connection is and how fast it is. 
+- [I turned a product launch into Claude skills](https://www.alvaldes.dev/en/blog/launch-skills/): Launching JUMP took three days and more than a dozen sites. I packed what I learned into open-source skills that do the work and stop before anything goes public. 
+- [How to open a Mac app that Apple hasn&#39;t notarized](https://www.alvaldes.dev/en/blog/open-unnotarized-mac-apps/): Why macOS blocks some apps you download from GitHub, and the four steps to open them safely the first time. 
+- [JUMP: keyboard-first, even outside the browser](https://www.alvaldes.dev/en/blog/introducing-jump/): Why I built an open-source macOS app that replaces the mouse with the keyboard, and how it works under the hood. 
 <!-- BLOG-POST-LIST:END -->
 
 ## Stack
