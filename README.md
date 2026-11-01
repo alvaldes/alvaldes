@@ -1,6 +1,6 @@
 # Hi, I'm Angel 👋
 
-Software engineer based in Mexico. I'm a frontend-focused full-stack developer and indie maker: I build macOS tools and LLM-powered products, and I'm pursuing a Master's in Software Engineering, researching how LLMs can automate requirements engineering.
+Full-stack software engineer based in Mexico, working with Angular, React and Spring Boot. I built and maintained Lurraldebus and LurTicket, public transportation apps for the Basque Country (Spain). I also build macOS tools and LLM-powered products, and I'm pursuing a Master's in Software Engineering, researching how LLMs can automate requirements engineering.
 
 [alvaldes.dev](https://www.alvaldes.dev/) · [Blog](https://www.alvaldes.dev/blog/) · [LinkedIn](https://www.linkedin.com/in/alvaldes/) · [CV](https://drive.google.com/file/d/1556Ps7OBVB0a0qEFa8fXScy93bq-U-3Q/view?usp=sharing) · [alvaldes.dev@gmail.com](mailto:alvaldes.dev@gmail.com)
 
