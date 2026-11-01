@@ -5,8 +5,8 @@ import { pathToFileURL } from "node:url";
 
 const SECTIONS = [
 	// Projects keep the order of the portfolio's Works page; the feed has no dates.
-	{ tag: "PROJECT-LIST", feed: "https://www.alvaldes.dev/en/works/rss.xml", limit: 6, columns: 3 },
-	{ tag: "BLOG-POST-LIST", feed: "https://www.alvaldes.dev/en/rss.xml", limit: 4, columns: 2 },
+	{ tag: "PROJECT-LIST", feed: "https://www.alvaldes.dev/works/rss.xml", limit: 6, columns: 3 },
+	{ tag: "BLOG-POST-LIST", feed: "https://www.alvaldes.dev/rss.xml", limit: 4, columns: 2 },
 ];
 
 const XML_ENTITIES = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'" };
